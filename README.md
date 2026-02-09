@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nelson Izquierdo, and I am a frontend developer with over 4 years of experience. I am proficient in HTML, CSS, and JavaScript (also a little bit of TypeScript), and I have experience with a variety of frontend frameworks, including React (with Next.js) and Vue. I am also familiar with a variety of frontend libraries, including jQuery, Bootstrap, and Tailwind.
+My name is Nelson Izquierdo, and I am a frontend developer with over 6 years of experience. I am proficient in HTML, CSS, and JavaScript (also a little bit of TypeScript), and I have experience with a variety of frontend frameworks, including React (with Next.js) and Vue. I am also familiar with a variety of frontend libraries, including jQuery, Bootstrap, and Tailwind.
 
 I have also been having fun working on backend projects with Nodejs.
 
